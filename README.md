@@ -29,3 +29,13 @@ has DELETE functionality with the type
 'cats' and type 'dogs'.
 People has POST functionality to add more 
 users to the queue.
+
+
+GitHub
+==== Back-End ====
+https://github.com/michaeljsliger/sliger-petful
+
+
+
+==== Front End ====
+https://github.com/michaeljsliger/sliger-petful-frontend
